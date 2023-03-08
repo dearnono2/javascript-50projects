@@ -1,0 +1,32 @@
+* {
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+}
+
+.panel {
+
+}
+
+.panel:nth-of-type(1) {
+  background: url() center no-repeat;
+  background-size: cover;
+}
+
+.panel:nth-of-type(2) {
+  background: url() center no-repeat;
+  background-size: cover;
+}
+
+.panel:nth-of-type(3) {
+  background: url() center no-repeat;
+  background-size: cover;
+}
+
+.panel:nth-of-type(4) {
+  background: url() center no-repeat;
+  background-size: cover;
+}
